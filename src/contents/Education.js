@@ -6,8 +6,8 @@
          return(
              <div className="condiv">
                  <h1 className="subtopic">My Education</h1>
-                 <Widecard title="MilerDev Software Engineering" where="Miler University" from="2016" to="Present" />
-                 <Widecard title="MilerDev" where="Miler High School" from="2011" to="2016" />
+                 <Widecard title="Aof jirapas Computer Science" where="Uttaradit Rajabhat University" from="2013" to="2020" />
+                 <Widecard title="Aof jirapas" where="Suankularb Wittayalai Saraburi High School" from="2009" to="2012" />
              </div>
          );
      }

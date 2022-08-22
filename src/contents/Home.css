@@ -1,0 +1,15 @@
+
+
+
+@media screen and (min-width: 300px) and (max-width: 700px){
+   .condiv.home{
+    zoom: 50%;
+ } 
+}
+
+
+@media screen and (min-width: 701px) and (max-width: 900px){
+    .condiv.home{
+     zoom: 80%;
+  } 
+ }

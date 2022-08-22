@@ -1,0 +1,24 @@
+
+
+@media screen and (min-width: 300px) and (max-width: 700px){
+    .condiv>ul{
+     zoom: 50%;
+  } 
+   ul.list-group{
+    display: flex;
+    flex-direction: column;
+    order: 2;
+   }
+ }
+ 
+ 
+ @media screen and (min-width: 701px) and (max-width: 900px){
+    .condiv>ul{
+      zoom: 50%;
+   } 
+   ul.list-group{
+    display: flex;
+    flex-direction: column;
+    order: 3;
+   }
+  }
